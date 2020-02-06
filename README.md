@@ -1,8 +1,7 @@
 # Math
 
-<p>This is a simple Linear Algebra library I created as I worked on my 3D rendering engine project. </p>
-
-This is also a very new and ongoing project so I haven't gotten around to cleaning up and commenting the code yet.
+<p>This is a simple Linear Algebra library I created as I worked on my 3D rendering engine project.&nbsp; &nbsp;</p>
+<p>This is also a very new and ongoing project so I haven't gotten around to cleaning up and commenting the code yet.&nbsp</p>
 
 I added functions and features as I came across a need for them while working on my project and so 
 might not have a lot of functions and features you might find in a fulll fledged math library.
